@@ -1,15 +1,21 @@
-#Task_A
-
-# list of three students named Jon, Kim and Lee
+# Task_A: create a list of three students
 students = ["Jon", "Kim", "Lee"]
-# task_c_Add Sara and Miko to the list after creation
+
+# Task_D: change Jon to John
+students[0] = "John"
+
+# Task_C: add Sara and Miko to the list after creation
 students.append("Sara")
 students.append("Miko")
-# function to print ‘Hi name’ for each student in the list
+
+# Task_B: function to greet each student and show total
 def greet_students(student_list):
     for student in student_list:
         print(f"Hi {student}")
     print(f"Total number of students: {len(student_list)}")
-# call the function
+
+# Call the function
 greet_students(students)
+git log --oneline
+
 
