@@ -1,10 +1,7 @@
 ID,TYPE,COMMIT,STATUS,DESCRIPTION,REPORTER,ASSIGNEE,DUE,CREATED,RESOLVED
-1,task,1e55c39,closed,task_a,,shahnaj,09/22/2025,09/22/2025,note-notified_team_members.
-2,task,,closed,task_b,shahnaj,09/27/2025,09/28/2025
-
-
-
-
+1,task,1e55c39,closed,task_a,shahnaj,shahnaj,09/22/2025,09/22/2025,09/22/2025
+2,task,,closed,task_b,shahnaj,shahnaj,09/27/2025,09/27/2025,09/28/2025
+3,task,7447d8a,closed,"Add Sara and Miko; print total number of students",shahnaj,shahnaj,09/28/2025,09/28/2025,09/28/2025
 
 
 
