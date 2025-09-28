@@ -16,6 +16,6 @@ def greet_students(student_list):
 
 # Call the function
 greet_students(students)
-git log --oneline
+
 
 
