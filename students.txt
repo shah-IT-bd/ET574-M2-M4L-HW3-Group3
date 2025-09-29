@@ -1,0 +1,5 @@
+John,3.2
+Kim,3.8
+Lee,2.9
+Sara,3.6
+Miko,3.0
